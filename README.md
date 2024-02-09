@@ -1,1 +1,2 @@
-# qwmixer_portfolio_optmization
+# An Empirical Analysis of Quantum Approximate Optimization
+Algorithm in Knapsack-based Financial Portfolio Optimization
